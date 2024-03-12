@@ -1,0 +1,41 @@
+[CompVis07N-2024-1] Entrega da atividade: Semana 2 (Aplicações de Computação Visual)
+
+Para esta atividade, foram escolhidas as seguinte aplicações paran cada subárea
+  - Computação Gráfica: Efeitos visuais em jogos e filmes
+  - Processamento de Imagens: Decisões baseadas em imagens em carros autônomos
+  - Visão Computacional: Identificação de pessoas via imagem
+
+1. Entretenimento: Efeitos visuais que te transportam para outros mundos
+
+A Computação Gráfica é a base para a criação de efeitos visuais em filmes, jogos e animações. Essa tecnologia permite aos artistas dar vida a personagens, cenários e histórias de maneira imersiva e convincente.
+O processo de criação de efeitos visuais envolve diversas etapas, desde a modelagem 3D até a aplicação de texturas, shaders e animações. A iluminação também é crucial para criar a atmosfera desejada em cada cena.
+Os efeitos visuais permitem que o público se transporte para outros mundos, experimente emoções intensas e se divirta com histórias emocionantes. Essa tecnologia contribui significativamente para a indústria do entretenimento, tornando filmes, jogos e animações mais realistas e envolventes.
+Exemplos:
+  - Filmes como "Vingadores: Ultimato" e "O Rei Leão" usaram efeitos visuais de forma inovadora.
+  - No mundo dos jogos, "Red Dead Redemption 2" e "The Last of Us" se destacam pela qualidade gráfica e imersão proporcionada.
+
+2. Veículos Autônomos: A tecnologia que te leva para o futuro
+
+A Computação Visual é fundamental para o desenvolvimento de veículos autônomos. Sensores capturam imagens e vídeos do ambiente, e algoritmos inteligentes interpretam essas informações para tomar decisões e navegar com segurança.
+A Visão Computacional identifica objetos como outros veículos, pedestres, ciclistas e sinais de trânsito. A inteligência artificial interpreta essas informações e decide como o veículo deve se comportar em tempo real.
+Veículos autônomos têm o potencial de revolucionar o transporte, tornando-o mais seguro, eficiente e acessível. Essa tecnologia pode reduzir significativamente o número de acidentes de trânsito e facilitar a locomoção de pessoas com deficiência.
+Exemplos:
+  - Empresas como Tesla e Uber estão desenvolvendo carros autônomos que já estão em testes em algumas cidades.
+  - Caminhões autônomos também estão sendo utilizados por empresas de logística para transportar cargas.
+
+3. Reconhecimento Facial: Tecnologia que te reconhece
+
+O Reconhecimento Facial é uma tecnologia que permite identificar pessoas através de imagens ou vídeos. Essa tecnologia tem diversas aplicações em áreas como segurança, autenticação e marketing.
+O Reconhecimento Facial utiliza algoritmos de Visão Computacional para identificar pontos específicos do rosto, como a distância entre os olhos e o formato do nariz. Essa informação é então comparada com uma base de dados de rostos cadastrados.
+O Reconhecimento Facial pode tornar nossa vida mais segura e conveniente. Essa tecnologia pode ser utilizada para desbloquear dispositivos, acessar ambientes restritos e até mesmo realizar pagamentos.
+Exemplos:
+  - Smartphones usam reconhecimento facial para desbloquear o dispositivo.
+  - Aeroportos usam essa tecnologia para identificar passageiros.
+  - Redes sociais como Facebook e Instagram utilizam reconhecimento facial para marcar pessoas em fotos.
+
+As aplicações foram escolhidas pela proximidade que temos com o assunto, no caso dos efeitos visuais e reconhecimento facial, que fazem parte do nosso dia a dia, já a aplicação da imagem para processamento de dados e tomar decisões em carros autônomos, é um assunto muito em alta também, causando um certo interesse nos integrantes do grupo.
+
+Referências:
+  - https://gryfo.com.br/blog/2021/08/11/5-aplicacoes-tecnologicas-com-reconhecimento-facial/
+  - https://www.insper.edu.br/noticias/lidar-e-visao-computacional-a-uniao-que-faz-a-forca/#:~:text=Com%20a%20tecnologia%20de%20vis%C3%A3o,na%20condu%C3%A7%C3%A3o%20do%20ve%C3%ADculo%20aut%C3%B4nomo.
+
