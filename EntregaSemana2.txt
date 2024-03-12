@@ -1,5 +1,10 @@
 [CompVis07N-2024-1] Entrega da atividade: Semana 2 (Aplicações de Computação Visual)
 
+Integrantes:
+Gustavo Schwarz => 10389588
+Thales Lopes => 10389343
+Vincenzo Alberice => 10389354
+
 Para esta atividade, foram escolhidas as seguinte aplicações paran cada subárea
   - Computação Gráfica: Efeitos visuais em jogos e filmes
   - Processamento de Imagens: Decisões baseadas em imagens em carros autônomos
