@@ -1,0 +1,9 @@
+O formato PNG é composto por várias seções, cada uma com funções especificas para armazenar e implementar os dados da imagem. Primeiramente, temos o cabeçalho, que tem a assinatura do tipo de arquivo (PNG) e o tipo da imagem, que pode ser interlaçada (I) ou não interlaçada (N). 
+Em segundo lugar, temos blocos de cabeçalho, onde cada bloco contem um codigo de 4 caracteres, que identifica o tipo de dado que ele contém, um valor de tamanho, que indica o número de bytes que ele contém, o bloco IHDR que informa as dimensões da imagem, tipo de cor, profundidade de bits e metodo de compresão, o PLTE, que define a paleta de cores da imagm, IDAT, que contém os dados da imagem comprimidos e por fim o IEND que marca o fim dos dados da imagem.
+Depois, temos os blocos de informação, que são, text, que é um texto descritivo sobre a imagem, BKGD, cor de fundo da imagem, e o GAMA, que é a informação de gama para imagens com cores não lineares.
+Depois, temos o CRC, que é um valor de verificação de redundância cíclica, é calculado sobre o conteudo do arquivo para garantir a integridade dos dados.
+Por fim, temos o final do arquivo com um byte nulo (0x00)
+
+Referencias:
+https://www.w3.org/TR/2003/REC-PNG-20031110/
+https://www.w3.org/Graphics/PNG/
